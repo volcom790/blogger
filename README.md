@@ -1,2 +1,4 @@
 # README
-Learning the fun of Ruby On Rails by creating a blog app.
+J'apprends Ruby on Rails avec The Odin's Project 
+
+https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails
